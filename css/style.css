@@ -1,0 +1,133 @@
+h1
+{
+    background-color: pink;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.h
+{
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+}
+
+h3
+{
+    text-align : center;
+}
+
+p
+{
+    text-align: center;
+}
+.P1
+{
+    text-decoration: underline;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: rgb(177, 119, 119);
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: white;
+}
+
+@media screen and (max-width: 600px) {
+    .navbar a {
+        float: none;
+        width: 100%;
+    }
+}
+.dip
+          { 
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-left: 8cm;
+            margin-right: 8cm;
+            background-color:rgb(178, 219, 230);
+          }
+
+          .deg
+          {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-left: 8cm;
+            margin-right: 8cm;
+            background-color:rgb(124, 172, 226);
+          }
+
+          .work
+          {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-left: 8cm;
+            margin-right: 8cm;
+            background-color:rgb(178, 219, 230);
+          }
+
+          .skill1
+          {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-left: 9cm;
+            margin-right: 9cm;
+            background-color:rgb(124, 172, 226);
+            align-items: center;
+          }
+
+          .skill2
+          {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-left: 9cm;
+            margin-right: 9cm;
+            background-color: rgb(178, 219, 230);
+            align-items: center;
+          }
+
+          .skill3
+          {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-left: 9cm;
+            margin-right: 9cm;
+            background-color:rgb(124, 172, 226);
+            align-items: center;
+          }
+
+          .skill4
+          {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-left: 9cm;
+            margin-right: 9cm;
+            background-color:rgb(178, 219, 230);
+            align-items: center;
+          }
+          .cont{
+            font-size: medium;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            text-align: center;
+            background-color: azure;
+            margin-left: 300px;
+            margin-right: 300px;
+           
+
+          }
